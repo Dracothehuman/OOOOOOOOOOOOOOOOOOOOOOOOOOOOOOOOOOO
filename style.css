@@ -1,0 +1,34 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    color:darksalmon;
+    background-color: rgb(91, 224, 39);
+}
+.header_div{
+    font-family: 'Roboto Slab', serif;
+    color:red;
+    background-color: dodgerblue;
+}
+.header_div p{
+    color:grey;
+    font-size:20px;
+    letter-spacing: 2px;
+    font-weight:bold;
+}
+.main_div button{
+    margin-top:20px;
+    font-size:12px;
+    font-family: 'Roboto Slab', serif;
+    color:olivedrab;
+    letter-spacing: 3px;
+    width: 200px;
+}
+.copy_right_footer{
+    line-height: 3;
+    width:100%;
+    text-shadow: 5px 5px 5px rgb(201, 73, 73);
+    color:gray;
+    position:fixed;
+    bottom:0;
+    font-size:30px;
+    background-color:violet;
+}
